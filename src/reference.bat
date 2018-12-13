@@ -17,4 +17,4 @@ sed -n '/REFERENCES/,/aaa/P' "text/.txt" >> "info/.txt"
 
  
 done
-eof
+
